@@ -1,5 +1,5 @@
 #Getting the basics right and Fizzbuzz working
-for n in range(100):
+for n in range(101):
     if (n == 0):
         print("FizzBuzz")
     elif (n % 3 == 0 and n % 5 == 0):
